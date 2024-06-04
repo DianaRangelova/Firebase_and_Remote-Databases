@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Firestore_Demo.props" />
+</Project>

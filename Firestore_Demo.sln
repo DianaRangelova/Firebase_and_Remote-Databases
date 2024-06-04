@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firestore_Demo", "Firestore_Demo\Firestore_Demo.csproj", "{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38706867-30D1-4505-9693-8E429E222F59}
+	EndGlobalSection
+EndGlobal
