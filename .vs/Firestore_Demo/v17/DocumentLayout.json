@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Firestore_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|c:\\users\\pc\\source\\repos\\firestore_demo\\firestore_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|solutionrelative:firestore_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|c:\\users\\pc\\source\\repos\\firestore_demo\\firestore_demo\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|solutionrelative:firestore_demo\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|c:\\users\\pc\\source\\repos\\firestore_demo\\firestore_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|solutionrelative:firestore_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|c:\\users\\pc\\source\\repos\\firestore_demo\\firestore_demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|solutionrelative:firestore_demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|c:\\users\\pc\\source\\repos\\firestore_demo\\firestore_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|solutionrelative:firestore_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|c:\\users\\pc\\source\\repos\\firestore_demo\\firestore_demo\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|solutionrelative:firestore_demo\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|c:\\users\\pc\\source\\repos\\firestore_demo\\firestore_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|solutionrelative:firestore_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C9A8AB9-0BF5-4376-8499-FA3F43636D30}|Firestore_Demo\\Firestore_Demo.csproj|c:\\users\\pc\\source\\repos\\firestore_demo\\firestore_demo\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Firestore_Demo\\Firestore_Demo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Firestore_Demo\\Views\\Shared\\_Layout.cshtml",
@@ -71,33 +71,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout1.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Firestore_Demo\\Firestore_Demo\\Views\\Shared\\_Layout1.cshtml",
               "RelativeDocumentMoniker": "Firestore_Demo\\Views\\Shared\\_Layout1.cshtml",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Firestore_Demo\\Firestore_Demo\\Views\\Shared\\_Layout1.cshtml",
               "RelativeToolTip": "Firestore_Demo\\Views\\Shared\\_Layout1.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-04T23:21:36.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Firestore_Demo\\Firestore_Demo\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "Firestore_Demo\\Views\\Home\\Create.cshtml",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Firestore_Demo\\Firestore_Demo\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "Firestore_Demo\\Views\\Home\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-04T22:49:58.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Firestore_Demo\\Firestore_Demo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Firestore_Demo\\Views\\Home\\Index.cshtml",
@@ -105,8 +105,7 @@
               "RelativeToolTip": "Firestore_Demo\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T22:39:56.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T22:39:56.222Z"
             },
             {
               "$type": "Document",
@@ -116,7 +115,7 @@
               "RelativeDocumentMoniker": "Firestore_Demo\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Firestore_Demo\\Firestore_Demo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Firestore_Demo\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAABQAAABsAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwBQAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T21:40:01.631Z",
               "EditorCaption": ""
@@ -131,8 +130,7 @@
               "RelativeToolTip": "Firestore_Demo\\Models\\Note.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T21:35:23.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T21:35:23.055Z"
             },
             {
               "$type": "Document",
@@ -144,8 +142,7 @@
               "RelativeToolTip": "Firestore_Demo\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T21:20:34.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T21:20:34.442Z"
             },
             {
               "$type": "Document",
@@ -157,8 +154,7 @@
               "RelativeToolTip": "Firestore_Demo\\fir-demoproject-e3f1a-firebase-adminsdk-undx9-8d0f687a72.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T21:18:51.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T21:18:51.293Z"
             }
           ]
         }
